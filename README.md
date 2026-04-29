@@ -1,0 +1,1 @@
+# syscaf-diagnostico-logs
